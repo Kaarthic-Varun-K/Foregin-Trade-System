@@ -1,0 +1,17 @@
+box	0	100.0
+b	0	1800.0
+c	0	400.0
+kk	7	145.0
+MI	10	14000.0
+nokia	7	40000.0
+hp mouse	4	1000.0
+levis clothing	3	1200.0
+boat earpods	20	2300.0
+UK Butter Cookies	20	8000.0
+iphone	2	60000.0
+acer laptops	5	70000.0
+stationery 	1	50.0
+Remote Control Toys	7	3000.0
+French Chocolates	4	5000.0
+french cheese	9	2400.0
+Samsung s20	1	53000.0

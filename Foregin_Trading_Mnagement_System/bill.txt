@@ -1,0 +1,2 @@
+ItemName	Quantity	Price
+hp mouse		3	3000.0
